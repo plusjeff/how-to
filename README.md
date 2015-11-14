@@ -1,6 +1,6 @@
 # Jeff's Notes
 
-Articles on how to do a variety of things, but mostly tech stuff.
+How to articles and notes on a variety of things, but mostly tech stuff.
 
 Access this site by going to [https://plusjeff.github.io/notes](https://plusjeff.github.io/notes)
 
