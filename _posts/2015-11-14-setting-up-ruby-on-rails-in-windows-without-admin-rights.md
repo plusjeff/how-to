@@ -20,14 +20,14 @@ We'll be installing:
 
 ## Install Ruby
 
-We'll use [RubyInstall](ruby-installer) to get the Ruby language installed and its common conventions/tools.
+We'll use [RubyInstall](http://rubyinstaller.org/downloads) to get the Ruby language installed and its common conventions/tools.
 
-1. Download the latest installer from [RubyInstaller (link)](ruby-installer)(but *not* the x64 version)
+1. Download the latest installer from [RubyInstaller (link)](http://rubyinstaller.org/downloads). Do *not* get the x64 versio.
 1. Run the installer
 1. Install to `C:\Ruby` (or elsewhere, but remember the location)
 1. Checkmark the `Add Ruby executables to Path` option
 1. Open a command prompt and type `ruby -v` to verify the installation
-1. Download the 32-bit Dev Kit for Ruby 2.0+ from [RubyInstaller (link)](ruby-installer)
+1. Download the 32-bit Dev Kit for Ruby 2.0+ from [RubyInstaller (link)]http://rubyinstaller.org/downloads
 1. After clicking the EXE, use the path to `C:\Ruby\DevKit` to extract the files
 1. Run the following commands to install the Dev Kit
     1. `ruby dk.rb init`
@@ -45,7 +45,7 @@ This will install Rails, the Ruby library/framework for making web applications.
 
 If you're working on a Rails projects, odds are good that you'll be using Git or GitHub for getting or storing your code.
 
-1. Download the latest installer from [Git's site](git)
+1. Download the latest installer from [Git's site](https://git-scm.com)
 1. Open the installer, and proceed through all prompts with defaults, except for:
     - Installation directory: `C:\git`
     - Adjusting your PATH environment: `Use Git and optional Unix tools from the Windows Command Prompt`
@@ -55,13 +55,13 @@ If you're working on a Rails projects, odds are good that you'll be using Git or
     1. `git config --global user.name "(your name)"`
     1. `git config --global user.email "(your email)"`
 
-If you're new to Git, definitely checkout [GitHub's graphical Desktop application](github-desktop) (which is much easier to use).
+If you're new to Git, definitely checkout [GitHub's graphical Desktop application](https://desktop.github.com) (which is much easier to use).
 
 ## Configure GitHub Account
 
 Speaking of GitHub, GitHub is the most popular site for source code repositories on the Internet and many open source projects use it. To get setup for this:
 
-1. Create an account at [GitHub](github)
+1. Create an account at [GitHub](https://github.com)
 1. Open a *Git Bash* terminal
 1. Run this command to generate a security/SSH key, accepting the default file name by hitting *Enter* (but enter a good password when prompted): `ssh-keygen -t rsa -b 4096 -C "(your email)"`
 1. Run the SSH Agent: `eval $(ssh-agent -s)`
@@ -82,13 +82,4 @@ Tip: `File > Open Folder` is a great way to open an entire Ruby on Rails project
 
 ## Other Notes
 
-- Typically it is a good idea to build applications in isolation by controlling which Gems are installed. Version managers such as **rbenv** or **rvm** are used in the Mac and Linux worlds, both for this, but also to make it easy to get and upgrade to new versions. Unfortunately, Windows's most popular version manager is Pik, but has been discontinued since 2012. [Uru](uru) is what the Pik creator suggests, but I haven't used it.
-
-
-[github-desktop]: https://desktop.github.com
-[github-settings-ssh]: https://github.com/settings/ssh
-[github]: https://github.com
-[git]: https://git-scm.com
-[ruby-installer]: http://rubyinstaller.org/downloads
-[sublime]: http://www.sublimetext.com/2
-[uru]: https://bitbucket.org/jonforums/uru
+- Typically it is a good idea to build applications in isolation by controlling which Gems are installed. Version managers such as **rbenv** or **rvm** are used in the Mac and Linux worlds, both for this, but also to make it easy to get and upgrade to new versions. Unfortunately, Windows's most popular version manager is Pik, but has been discontinued since 2012. [Uru](https://bitbucket.org/jonforums/uru) is what the Pik creator suggests, but I haven't used it
