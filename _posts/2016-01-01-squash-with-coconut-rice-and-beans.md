@@ -98,3 +98,5 @@ This makes squash with a lime-y dressing, served with coconut rice and beans. Th
 1. Add cilantro
 1. Add lime
 1. Salt as needed
+
+\* Carli Wulff is awesome. This is her recipe.
