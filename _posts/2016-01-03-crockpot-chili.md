@@ -48,4 +48,6 @@ This should make 8 servings.
 1. Taste for spices
     - Add more if needed
     - Add more water if too strong
-1. Cook for 8 hours
+1. Cook on low for 8 hours
+
+\* Recipe by Carli Wulff, who is amazing
