@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thin Curst Chard Leek Pizza"
-date:   2016-01-18 19:00:00 -0500
+date:   2016-08-01 19:00:00 -0500
 categories: recipe cooking
 ---
 
@@ -80,4 +80,4 @@ This makes two pizzas (or one really big one if you have a massive oven and tray
 1. Put into oven for 8 minutes
 1. Eat! (but let it cool for a minute or two)
 
-\* Recipe by Carli Wulff, who is well mannered :-)
+\* Recipe by Carli Wulff, who is well mannered :-)x
