@@ -11,8 +11,7 @@ Makes 1 large and 1 small. Between 14-18 servings depending on how big you cut i
 
 - Lots of bowls
 - 9x13 in pan (aka lasagna pan)
-- 8x11 in pan
-
+- 8x11 in pan (the small one)
 # Ingredients
 
 - 2 zucchini
