@@ -11,4 +11,4 @@ Hey everyone! My name is [Jeff](http://jeffmaher.me). I'm a software developer (
 - Wellness and health
 - Food (yum)
 
-I like learning new things and writing them down (so that I remember). Fortunately, writing things down also makes them super easy to share. So, this site is my way of sharing, even if the topics covered are scattered.
+I like learning new things and writing them down (so that I remember). Fortunately, writing things down also makes them super easy to share. This site is my way of sharing, even if the topics covered are scattered.
