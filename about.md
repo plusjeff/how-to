@@ -11,6 +11,4 @@ Hey everyone! My name is [Jeff](http://jeffmaher.me). I'm a software developer (
 - Wellness and health
 - Food (yum)
 
-I like learning new things and writing them down (so that I remember). Fortunately, writing things down also makes them super easy to share. So, this site is my way of sharing.
-
-Because I'm into making software, it'll likely have a huge tech focus, but other random things will likely appear (like tasty recipes, etc.).
+I like learning new things and writing them down (so that I remember). Fortunately, writing things down also makes them super easy to share. So, this site is my way of sharing, even if the topics covered are scattered.
