@@ -30,9 +30,10 @@ Makes about 10 medium-sized pancakes (medium, as in, about the size of a hand).
 
 ## Instructions
 
+1. Mix milk and vinegar in a bowl. Let sit for ~5 minutes.
 1. Put oatmeal in a blender until it's more of a powder
 1. Mix dry ingredients (flour, oatmeal, baking soda, baking powder) in a bowl
-1. Mix wet ingredients in a separate bowl (milk, vinegar, honey, egg, coconut oil)
+1. Mix wet ingredients in a separate bowl (milk + vinegar, honey, egg, coconut oil)
 1. (Only needed if coconut oil hardens from temperature) Blend wet ingredients
 1. Mix wet and dry ingredients until moderately mixed, it should still be slightly chunky
 1. Coat pan with oil
