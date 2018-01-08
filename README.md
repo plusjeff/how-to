@@ -1,7 +1,7 @@
-# Jeff's Notes
+# Jeff's Food Notes
 
-How to articles and notes on a variety of things: cooking, tech, steps to doing random things in life.
+Recipes in a form that make sense to Jeff's brain, shared online.
 
-Access this site by going to [https://plusjeff.github.io/notes](https://plusjeff.github.io/notes)
+Access this site by going to [https://plusjeff.github.io/food-notes](https://plusjeff.github.io/food-notes)
 
 Or, you can look at the raw posts here via the [`_posts`](_posts) folder.

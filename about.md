@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Hey everyone! My name is [Jeff](http://jeffmaher.me). I'm a software developer (read: I make computer programs for a living), but I also am super interested in a bunch of things:
+My name is [Jeff](http://jeffmaher.me) and I'm a crappy cook. 
 
-- Making the world a better place (think: limiting climate change, making government better, etc.)
-- Outdoors (especially hiking, biking, and running)
-- Wellness and health
-- Food (yum)
+However, I'm getting better with help from friends, family, and the Internet. As a cooking beginner, I have trouble following instructions like "toss a glug in there, and add this until it comes to taste." While I'm grateful to my community for the help, much of it comes in this non-linear, non-explicit, or too long-winded form -- which my brain has trouble with.
 
-I like learning new things and writing them down (so that I remember). Fortunately, writing things down also makes them super easy to share. This site is my way of sharing, although the topics covered are scattered.
+This blog is simply some recipes that I've translated for myself and written down so that I can understand and reliably repeat them. The primary goal is to have a record for myself, but if I'm writing it down, might as well share with y'all!
+
+If you have feedback, suggestions, or want to add something, please do so via [this blog's GitHub page](https://github.com/plusjeff/food-notes).
