@@ -2,7 +2,7 @@
 layout: post
 title:  "Crockpot Chili"
 date:   2016-01-03 18:00:00 -0500
-categories: recipe cooking
+categories: recipe
 ---
 
 This should make 8 servings.

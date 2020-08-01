@@ -2,7 +2,7 @@
 layout: post
 title:  "Curry Split Pea Soup"
 date:   2016-01-18 19:00:00 -0500
-categories: recipe cooking
+categories: recipe
 ---
 
 This should make 6-8 servings.

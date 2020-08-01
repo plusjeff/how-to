@@ -2,7 +2,7 @@
 layout: post
 title:  "Veggie Lasagna"
 date:   2017-01-24 19:00:00 -0500
-categories: recipe cooking
+categories: recipe
 ---
 
 Makes 1 large and 1 small. Between 14-18 servings depending on how big you cut it.

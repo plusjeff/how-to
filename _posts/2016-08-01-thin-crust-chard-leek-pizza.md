@@ -2,7 +2,7 @@
 layout: post
 title:  "Thin Curst Chard Leek Pizza"
 date:   2016-08-01 19:00:00 -0500
-categories: recipe cooking
+categories: recipe
 ---
 
 This makes two pizzas (or one really big one if you have a massive oven and tray). Serves 4 people.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Herbed Vegetable Pasta"
 date:   2020-08-01 00:00:00 -0500
-categories: casserole
+categories: recipe
 ---
 
 # Herbed Vegetable Pasta

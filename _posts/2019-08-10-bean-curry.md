@@ -2,7 +2,7 @@
 layout: post
 title:  "Bean Curry"
 date:   2019-08-10 17:00:00 -0500
-categories: indian
+categories: recipe
 ---
 # Saag Paneer
 

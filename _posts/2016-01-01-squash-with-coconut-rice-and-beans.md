@@ -2,7 +2,7 @@
 layout: post
 title:  "Squash with Coconut Rice and Beans"
 date:   2016-01-01 18:00:00 -0500
-categories: recipe cooking
+categories: recipe
 ---
 
 This makes squash with a lime-y dressing, served with coconut rice and beans. This should make 4 servings.

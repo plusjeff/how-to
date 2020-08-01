@@ -2,7 +2,7 @@
 layout: post
 title:  "Black Pepper Tofu"
 date:   2020-04-24 00:00:00 -0500
-categories: asian
+categories: recipe
 ---
 
 # Black Pepper Tofu

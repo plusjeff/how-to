@@ -2,7 +2,7 @@
 layout: post
 title:  "Coconut Curry Stir Fry"
 date:   2019-07-21 19:00:00 -0500
-categories: thai
+categories: recipe
 ---
 # Coconut Curry Stir Fry
 
