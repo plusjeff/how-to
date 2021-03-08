@@ -31,8 +31,9 @@ This shakshuka recipe makes four servings.
 - Kosher salt, to taste
 - 4 tbsp coarse sugar
 - 1 28 ou can whole peeled or diced tomatoes, undrained
-- 6 eggs
-- 1/2 cup feta cheese, crumbled
+- (optional) 6 eggs
+- (optional) 1/2 cup feta cheese, crumbled
+- (optional) Crusty bread or pita
 
 # Instructions
 
@@ -49,12 +50,13 @@ This shakshuka recipe makes four servings.
 1. When oil is hot, add the onions and sautee for 5 minutes or until they are soft.
 1. Add bell peppers, garlic, paprika, bay leaves, thyme, salt and sugar to the dutch oven.
 1. Over the course of 10 minutes, stir the dutch oven every minute or so.
-1. When the bell peppers are soft, add in tomatoes and cook for 10-15 minutes
+1. When the bell peppers are soft, add in tomatoes and cook for 10-15 minutes.
     - Stir often
     - Add water as needed to keep to a pasta-sauce like consistency
-1. After the flavours have come together, crack eggs into the dutch oven and cook at a lower heat covered until the yolk is set
+1. (If using eggs) After the flavours have come together, crack eggs into the dutch oven and cook at a lower heat covered until the yolk is set.
+1. Yum time.
 
 
-## Credits
+# Credits
 
 Inspired by recipes from [Smitten Kitchen](https://smittenkitchen.com/2010/04/shakshuka/) and [Plenty](https://ottolenghi.co.uk/shop/books/plenty).
