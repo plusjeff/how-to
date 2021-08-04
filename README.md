@@ -1,6 +1,6 @@
 # Jeff's Food Notes
 
-Recipes in a form that make sense to Jeff's brain, shared online.
+Recipes in a form that make sense to Jeff's brain, just shared online.
 
 Access this site by going to [https://jeffmaher.github.io/food-notes](https://jeffmaher.github.io/food-notes).
 
