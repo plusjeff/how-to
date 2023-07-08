@@ -47,7 +47,7 @@ This makes 15-18 scones.
 1. Remove top and bottom inch of rhubarb stalks
 1. Cut rhubarb into .25 in slices 
 1. Toss rhubarb in medium bowl
-1. Add 25% of the vanilla sugar mixture
+1. Mix in 25% of the vanilla sugar
 1. Let sit
 
 ## Make scone dough
