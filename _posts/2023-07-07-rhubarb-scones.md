@@ -30,7 +30,7 @@ This makes 15-18 scones.
 
 # Instructions
 
-# Preheat Oven
+## Preheat Oven
 
 - 425 degrees Fahrenheit if using a _standard_ oven
 - 410 degress Fahrenheit if using _convection_ oven
