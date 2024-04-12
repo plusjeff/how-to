@@ -71,7 +71,7 @@ This makes 15-18 scones.
 1. Sprinkle wedges with half of remaining vanilla sugar
 1. Repeat for other half of dough
 
-# Bake scones
+## Bake scones
 
 1. Put into oven
 1. Bake for 15-20 min until golden
